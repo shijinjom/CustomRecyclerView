@@ -66,4 +66,4 @@
  //到此就可以根据源码来仿照写个 recyclerView 的 addHeaderview addFooterView
  
  
- ![image](https://github.com/shijinjom/CustomRecyclerView/blob/master/Screenshot_20180509-131422.jpg)
+ ![image](https://github.com/shijinjom/CustomRecyclerView/blob/master/demo.jpg)
